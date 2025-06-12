@@ -1,0 +1,4 @@
+# ignorar los .env de todas las carpetas
+.env
+**/.env
+*.env
